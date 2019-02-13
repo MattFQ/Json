@@ -4,19 +4,19 @@
       "id": 1,
       "name": "integrador1",
       "totalPedidos": 2323,
-      "ultimoPedido": 12/02/2019 12:15"
+      "ultimoPedido": "12/02/2019 12:15"
     },
     {
       "id": 2,
       "name": "integrador2",
       "totalPedidos": 23,
-      "ultimoPedido": 12/02/2019 16:15"
+      "ultimoPedido": "12/02/2019 16:15"
     },
     {
       "id": 3,
       "name": "integrador3",
       "totalPedidos": 1,
-      "ultimoPedido": 12/02/2018 12:15"
+      "ultimoPedido": "12/02/2018 12:15"
     }
   ]
 }
